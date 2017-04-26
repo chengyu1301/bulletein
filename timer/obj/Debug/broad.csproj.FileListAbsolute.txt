@@ -1,0 +1,22 @@
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\broad.csproj.GenerateResource.Cache
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletein.Properties.Resources.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\bin\Debug\bulletin board.exe.config
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\bin\Debug\bulletin board.exe
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\bin\Debug\bulletin board.pdb
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletin board.exe
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletin board.pdb
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\broad.csprojResolveAssemblyReference.cache
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletein.Form1.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletein.Form2.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\bulletein.Form3.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\bin\Debug\bulletin board.exe.config
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletin board.exe
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletin board.pdb
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\bin\Debug\bulletin board.exe
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\bin\Debug\bulletin board.pdb
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\broad.csprojResolveAssemblyReference.cache
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletein.Form1.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletein.Form2.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletein.Form3.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\bulletein.Properties.Resources.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board20170306\timer\obj\Debug\broad.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\bin\Debug\timer.exe.config
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.Form1.resources
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.Properties.Resources.resources
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\bin\Debug\timer.exe
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\bin\Debug\timer.pdb
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.exe
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.pdb
+c:\users\wu\documents\visual studio 2012\Projects\timer\timer\obj\Debug\timer.Form2.resources
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\bin\Debug\timer.exe.config
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\timer.exe
+C:\Users\WU\Documents\Visual Studio 2012\Projects\board\timer\obj\Debug\timer.pdb
